@@ -1,20 +1,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Student Table</title>
-
-<style>
-table{
-    border-collapse: collapse;
-}
-
-th, td{
-    border:1px solid black;
-    padding:5px;
-    text-align:left;
-}
-</style>
-
 </head>
 
 <body>
