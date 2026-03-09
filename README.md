@@ -1,1 +1,38 @@
 # 3index.html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Student Table</title>
+
+<style>
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    border:1px solid black;
+    padding:5px;
+    text-align:left;
+}
+</style>
+
+</head>
+
+<body>
+
+<table>
+<tr>
+<th>Name</th>
+<th>Student ID</th>
+</tr>
+
+<tr>
+<td>Duan Jingmin</td>
+<td>113403066</td>
+</tr>
+
+</table>
+
+</body>
+</html>
